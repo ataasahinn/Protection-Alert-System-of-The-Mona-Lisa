@@ -130,3 +130,7 @@ void loop(){
 
 ## İnterface Design By Labview
 ![Interface design screenshot](https://user-images.githubusercontent.com/98187548/171471682-2e1c4188-8c77-497d-9252-f561ccf5119b.png)
+
+## Block Diagram By Labview
+![Block Diagram screenshot](https://user-images.githubusercontent.com/98187548/171472125-d222d073-867a-4b8b-9498-3ecb7467a99f.png)
+
